@@ -1,0 +1,11 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "YZ-ANT")(type "KiCad")(uri "${KIPRJMOD}/yz_kicad_lib/footprint/YZ-ANT.pretty")(options "")(descr ""))
+  (lib (name "YZ-Audio")(type "KiCad")(uri "${KIPRJMOD}/yz_kicad_lib/footprint/YZ-Audio.pretty")(options "")(descr ""))
+  (lib (name "YZ-Button")(type "KiCad")(uri "${KIPRJMOD}/yz_kicad_lib/footprint/YZ-Button.pretty")(options "")(descr ""))
+  (lib (name "YZ-Connector")(type "KiCad")(uri "${KIPRJMOD}/yz_kicad_lib/footprint/YZ-Connector.pretty")(options "")(descr ""))
+  (lib (name "YZ-DISPLAYS")(type "KiCad")(uri "${KIPRJMOD}/yz_kicad_lib/footprint/YZ-DISPLAYS.pretty")(options "")(descr ""))
+  (lib (name "YZ-ICs")(type "KiCad")(uri "${KIPRJMOD}/yz_kicad_lib/footprint/YZ-ICs.pretty")(options "")(descr ""))
+  (lib (name "YZ-LOGO")(type "KiCad")(uri "${KIPRJMOD}/yz_kicad_lib/footprint/YZ-LOGO.pretty")(options "")(descr ""))
+  (lib (name "YZ-PWR")(type "KiCad")(uri "${KIPRJMOD}/yz_kicad_lib/footprint/YZ-PWR.pretty")(options "")(descr ""))
+)
