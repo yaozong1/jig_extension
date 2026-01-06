@@ -10721,7 +10721,7 @@
 		)
 		(uuid "20d575b0-b83e-459e-ae8e-4be6b180eb83")
 	)
-	(label "5V0"
+	(label "5V0_I"
 		(at 321.31 52.07 180)
 		(fields_autoplaced yes)
 		(effects
@@ -11073,7 +11073,7 @@
 		)
 		(uuid "8330ae81-e9bb-4b36-8e5e-93e3de236d18")
 	)
-	(label "5V0"
+	(label "5V0_I"
 		(at 60.96 241.3 180)
 		(fields_autoplaced yes)
 		(effects
@@ -22218,7 +22218,7 @@
 			)
 		)
 		(property "Value" "10K"
-			(at 228.6 255.27 0)
+			(at 238.506 251.968 0)
 			(effects
 				(font
 					(size 1.27 1.27)
