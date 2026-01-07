@@ -10500,6 +10500,16 @@
 		)
 		(uuid "230bf7f5-99b3-4bcc-a0f5-355b3d9406b6")
 	)
+	(text "CH340E will be reboot when the DUT plugin, due to the 3v3_B drop."
+		(exclude_from_sim no)
+		(at 145.288 138.176 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "27a2e5d8-7bed-4ca9-a67c-639ee5cb7b14")
+	)
 	(text "120 Ohm"
 		(exclude_from_sim no)
 		(at 328.93 262.89 0)
